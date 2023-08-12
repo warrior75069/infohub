@@ -29,3 +29,22 @@ Technologies used in the project:
 *   Bootstrap
 *   Php
 *   Mysql
+
+<h2>📜 To Test</h2>
+
+Login Credentials:
+
+Admin
+*   user: admin
+*   Pass: admin
+
+Customer1
+*   user: customer1
+*   pass: customer1
+
+Customer2
+*   user: customer2
+*   pass: customer2
+
+<h2> Show your support</h2>
+Give a ⭐ if you like this website!
